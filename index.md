@@ -36,4 +36,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-hello
+hello 
+
+# McKenzie's First CS193 Homework
+
+## My Favorite Things About CS193
+- This class will better my understanding of coding tools!
+- This class is low stress and has no exams.
+- This class is run by students, people around my age, so in a sense there is less stress.
